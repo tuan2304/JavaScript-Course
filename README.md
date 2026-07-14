@@ -66,7 +66,6 @@ JavaScript-Course/
 │
 └── README.md
 ```
-s
 ---
 
 # 🎯 Learning Objectives
