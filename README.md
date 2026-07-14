@@ -59,26 +59,14 @@ The goal is to build a strong foundation before moving on to advanced frameworks
 ```
 JavaScript-Course/
 │
-├── 01-Basics/
-├── 02-Variables/
-├── 03-Operators/
-├── 04-Conditions/
-├── 05-Loops/
-├── 06-Functions/
-├── 07-Arrays/
-├── 08-Objects/
-├── 09-DOM/
-├── 10-Events/
-├── 11-ES6/
-├── 12-Async/
-├── 13-Fetch-API/
-├── 14-Projects/
+├── 📁 01-variable
+├── 📁 02-primitive-data-types
+├── 📁 03-object-data-types  
+├── 📁 04-operator
 │
-├── assets/
-├── README.md
-└── LICENSE
+└── README.md
 ```
-
+s
 ---
 
 # 🎯 Learning Objectives
